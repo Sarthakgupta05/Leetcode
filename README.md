@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthakgupta05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Sarthakgupta05/Leetcode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthakgupta05/Leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sarthakgupta05/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
