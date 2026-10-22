@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sarthakgupta05/Leetcode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/Sarthakgupta05/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarthakgupta05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sarthakgupta05/Leetcode/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sarthakgupta05/Leetcode/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
