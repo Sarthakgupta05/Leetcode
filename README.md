@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sarthakgupta05/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarthakgupta05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sarthakgupta05/Leetcode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Sarthakgupta05/Leetcode/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sarthakgupta05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Sarthakgupta05/Leetcode/tree/master/0229-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,4 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sarthakgupta05/Leetcode/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/Sarthakgupta05/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sarthakgupta05/Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sarthakgupta05/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
